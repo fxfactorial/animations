@@ -1,0 +1,13 @@
+{
+  "libs": [ ],
+  "loadEagerly":[
+    "node_modules/react-native/Libraries/react-native/react-native-implementation.js"
+  ],
+  "plugins": {
+    "node": { },
+    "requirejs" : { },
+    "es_modules" : { },
+    "doc_comment": { "fullDocs": true },
+    "complete_strings": {}
+  }
+}
